@@ -1,2 +1,4 @@
 # CP01_JS
-Curso Propedeutico JS
+Curso Propedeutico JS - 2023
+
+BIENVENIDOS A TODOS!
